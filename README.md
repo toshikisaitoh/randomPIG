@@ -2,7 +2,7 @@
 
 This is a software to generate a proper interval graph uniformly at random. The program is written in C++ and you can complile the source code `genPIG.cpp`. You run the program with the number of vertices in the graph. The program outputs an interval representation of the proper interval graph and its adjacency list. The implementation is based on the algorithm written in [1].
 
-##Example how to compile and execute the program
+## Example how to compile and execute the program
 
 We compile and execute the program as follows. 
 
