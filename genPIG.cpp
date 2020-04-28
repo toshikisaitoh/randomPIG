@@ -20,8 +20,9 @@ public:
   }
 
   void print(){
-    //std::cout << "Graph: (n, m) = (" << n << ", " << m << ")" << std::endl;
-    std::cout << "#Vertices = " << n << "\t#Edges = " <<  m << std::endl; 
+    //std::cout << n << ", " << m << std::endl;
+    //std::cout << "#Vertices = " << n << "\t#Edges = " <<  m << std::endl;
+    std::cout << "Graph: (n, m) = (" << n << ", " << m << ")" << std::endl;
     for(int i = 0 ; i<adj.size() ; i++){
       std::cout << i+1 << ": ";
       for(std::vector<int>::iterator itr = adj[i].begin() ; itr != adj[i].end() ; ++itr){

@@ -24,7 +24,7 @@ Graph: (n, m) = (6, 9)
 6: 5 
 ```
 
-The output of the interval representation is the sequence of endpoints of an interval representation. On the above example, the sequence means that the left endpoint of vertex 1, the left endpoint of vertex 2, the left endpoints of vertex 3, the right endpoint of vertex 1, ..., from left to right in the sequence. 
+The output of the interval representation is the sequence of endpoints of an interval representation. On the above example, the sequence means that the left endpoint of vertex 1, the left endpoint of vertex 2, the left endpoints of vertex 3, the right endpoint of vertex 1, ..., from left to right in the sequence.
 
 
 ## References
